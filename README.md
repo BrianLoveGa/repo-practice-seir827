@@ -1,2 +1,1 @@
-# repo-practice-seir827
-for practice
+This is my practice repo
